@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sionater.github.io/sitemap.html.gz
+Sitemap: https://sionater.github.io/app/sitemap.html.gz
+Sitemap: https://sionater.github.io/assets/sitemap.html.gz
+Sitemap: https://sionater.github.io/css/sitemap.html.gz
+Sitemap: https://sionater.github.io/data/sitemap.html.gz
+Sitemap: https://sionater.github.io/includes/sitemap.html.gz
+Sitemap: https://sionater.github.io/item/sitemap.html.gz
+Sitemap: https://sionater.github.io/src/sitemap.html.gz
